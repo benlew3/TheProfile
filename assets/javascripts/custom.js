@@ -9,7 +9,7 @@ $(document).ready(function() {
   }, 1000);
 
   $("#typed").typed({
-    strings: ["A Passionate Developer", "An Experienced UI / UX Designer", "An Excellent Front End Developer", "The Safe Bet", "Benjamin Lew"],
+    strings: ["I Am Passionate Designer", "Expert UI / UX Designer", "Excellent Front End Developer"],
     typeSpeed: 30,
     startDelay: 0,
     backSpeed: 30,

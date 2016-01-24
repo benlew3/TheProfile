@@ -103,10 +103,10 @@ a:hover {
 /*             Why Me Elements
 /*==========================================*/
 .why-me .skills .skillbars .bar-container .meter {
-  background: #f9bf3b;
+  background: #7ABAFF;
 }
 .why-me .skills .skillbars .bar-container .meter:after {
-  border-left: 20px solid #f9bf3b;
+  border-left: 20px solid #3858FF;
 }
 /*==========================================*/
 /*      Education & Employment Elements
@@ -156,7 +156,7 @@ a:hover {
 /*             Map Elements
 /*==========================================*/
 .map .map-title {
-  background: #f9bf3b;
+  background: #7ABAFF;
 }
 /*==========================================*/
 /*             Contact Elements
