@@ -319,9 +319,9 @@ a:hover {
   color: #ffffff;
   padding: 0px;
   line-height: 0px;
-  width: 100px;
+  width: 197px;
   height: 40px;
-  background: url("../../images/logo.png") no-repeat center;
+  background: url("../../images/logolight.png") no-repeat center;
   margin: 20px 0px;
 }
 .navbar-inverse .navbar-nav li a {
@@ -358,7 +358,7 @@ a:hover {
   color: #333333;
 }
 .navbar-inverse.scroll-fixed-navbar .navbar-brand {
-  background: url("../../images/logo-dark.png") no-repeat center;
+  background: url("../../images/logodark.png") no-repeat center;
 }
 .navbar-inverse.scroll-fixed-navbar .navbar-nav li a {
   color: #333333;
